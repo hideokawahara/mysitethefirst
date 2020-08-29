@@ -1,10 +1,6 @@
 <template>
   <div class="container" id="posts">
     <div class="post-preview" v-for="post in posts" :key="post.id">
-      <!-- <div 
-        :style="{backgroundImage: post.thumbnailUrl}"
-        class="post-preview-thumbnail">
-      </div> -->
       <div 
         :style="{ backgroundImage: 'url(' + post.thumbnailUrl + ')' }"
         class="post-preview-thumbnail">
@@ -42,13 +38,21 @@ export default {
           previewText: "こちらのポートフォリオサイトはNuxt.jsを使って制作しました。こだわりとしては、シンプルかつ青と緑がメインのデザインです。",
           thumbnailUrl:
             "/mysite.jpg",
-          site: "https://hinoizu.netlify.app/"
+          site: "/"
         },
-        {
+        // {
+        //   title: "taYlor",
+        //   previewText: "vue-cli3とRailsを使って制作しました。個人アプリは白メインのデザインが多いと思い、紫メインにしました。途中で熱が覚めてしまい、デプロイ未済のまま放置しています。作成中に「これ無理してRailsでやらんでいいんじゃね？NodeとFirebaseの方が楽じゃね？」と感じたのが原因です。リンクはGitHubのリンクです。",
+        //   thumbnailUrl:
+        //     "/test3.png",
+        //     // "/mysite.jpg",
+        //   site: "https://github.com/hideokawahara/taylor"
+        // },
+         {
           title: "taYlor",
           previewText: "vue-cli3とRailsを使って制作しました。個人アプリは白メインのデザインが多いと思い、紫メインにしました。途中で熱が覚めてしまい、デプロイ未済のまま放置しています。作成中に「これ無理してRailsでやらんでいいんじゃね？NodeとFirebaseの方が楽じゃね？」と感じたのが原因です。リンクはGitHubのリンクです。",
           thumbnailUrl:
-            "/taylor.png",
+            "/test.png",
           site: "https://github.com/hideokawahara/taylor"
         },
         {
