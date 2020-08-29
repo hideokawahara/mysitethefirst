@@ -50,22 +50,22 @@ export default {
           title: "taYlor",
           previewText: "vue-cli3とRailsを使って制作しました。個人アプリは白メインのデザインが多いと思い、紫メインにしました。途中で熱が覚めてしまい、デプロイ未済のまま放置しています。作成中に「これ無理してRailsでやらんでいいんじゃね？NodeとFirebaseの方が楽じゃね？」と感じたのが原因です。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
-          site: "/"
+            "/taylor.png",
+          site: "/taylor.png"
         },
         {
           title: "techInfo",
           previewText: "主に使ったのは、RailsとBootstrapです。大阪のプログラミング初学者の情報共有サイトのつもりで制作しました。これもデプロイ未済のまま熱が覚めてやめました",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
+            "/techinfo.png",
           site: "/"
         }, 
         {
           title: "red",
           previewText: "React.jsとFirebaseをメインに作成しました。これを作成する前にVueばっかり触ってたのでReactのコードの書き方がオシャレやなーと思いました。また、Firebase便利で感動しました。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
-          site: "/"
+            "/red.png",
+          site: "https://red-react.web.app/"
         }, 
         {
           title: "rebecca",
