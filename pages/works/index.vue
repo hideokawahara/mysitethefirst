@@ -42,7 +42,7 @@ export default {
           previewText: "こちらのポートフォリオサイトはNuxt.jsを使って制作しました。こだわりとしては、シンプルかつ青と緑がメインのデザインです。",
           thumbnailUrl:
             "/mysite.jpg",
-          site: "/"
+          site: "https://hinoizu.netlify.app/"
         },
         {
           title: "taYlor",
