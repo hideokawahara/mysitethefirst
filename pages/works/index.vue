@@ -28,7 +28,6 @@ export default {
           previewText: "こちらの作品はweather_APIを活用したアプリです。Vue.jsの学習始めに制作したものです。vue-cli3とBootstrapを使ってます。2020年6月に制作。",
           thumbnailUrl:
             "/sunny-vue.jpg",
-          // id: "a-new-beginning"
           site: "https://sunny-vue-hinoizu.netlify.app/"
         },
         {
@@ -36,43 +35,42 @@ export default {
           previewText: "こちらはVue.jsとNode.jsを使って制作しました。デプロイの仕方や環境変数の利用やpeerJsを使ってビデオチャット機能も入れる際にたくさん苦労しましたので個人的には一番思い入れのある制作物です。",
           thumbnailUrl:
             "/conver.chat.ver2.png",
-          // id: "a-second-beginning"
-          site: "https://conver-chat.herokuapp.com/"
+          site: "https://conver-chat-hinoizu.herokuapp.com/"
         },
         {
           title: "ポートフォリオサイト",
           previewText: "こちらのポートフォリオサイトはNuxt.jsを使って制作しました。こだわりとしては、シンプルかつ青と緑がメインのデザインです。",
           thumbnailUrl:
             "/mysite.jpg",
-          site: "https://saruwakakun.com/html-css/basic/a-link"
+          site: "/"
         },
         {
           title: "taYlor",
-          previewText: "vue-cli3とRailsを使って制作しました。個人アプリは白メインのデザインが多いと思い、紫メインにしました。途中で熱が覚めてしまい、デプロイ未済のまま放置しています。作成中に「これ無理してRailsでやらんでいいんじゃね？NodeとFirebaseの方が楽じゃね？」と感じたのが原因です。",
+          previewText: "vue-cli3とRailsを使って制作しました。個人アプリは白メインのデザインが多いと思い、紫メインにしました。途中で熱が覚めてしまい、デプロイ未済のまま放置しています。作成中に「これ無理してRailsでやらんでいいんじゃね？NodeとFirebaseの方が楽じゃね？」と感じたのが原因です。リンクはGitHubのリンクです。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
-          site: "/"
+            "/taylor.png",
+          site: "https://github.com/hideokawahara/taylor"
         },
         {
           title: "techInfo",
-          previewText: "主に使ったのは、RailsとBootstrapです。大阪のプログラミング初学者の情報共有サイトのつもりで制作しました。これもデプロイ未済のまま熱が覚めてやめました",
+          previewText: "主に使ったのは、RailsとBootstrapです。大阪のプログラミング初学者の情報共有サイトのつもりで制作しました。これもデプロイ未済のまま熱が覚めてやめました。リンクはGitHubのリンクです。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
-          site: "/"
+            "/techinfo.png",
+          site: "https://github.com/hideokawahara/rails_app"
         }, 
         {
           title: "red",
           previewText: "React.jsとFirebaseをメインに作成しました。これを作成する前にVueばっかり触ってたのでReactのコードの書き方がオシャレやなーと思いました。また、Firebase便利で感動しました。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
-          site: "/"
+            "/red.png",
+          site: "https://red-react.web.app/"
         }, 
         {
           title: "rebecca",
-          previewText: "ReactNativeとFirebaseを使って初めてモバイル系のアプリに挑戦しました。スマホのシミュレーターを用いながらの開発は新鮮さと衝撃がありました。デプロイはまだ未済で若干放置中です。",
+          previewText: "ReactNativeとFirebaseを使って初めてモバイル系のアプリに挑戦しました。スマホのシミュレーターを用いながらの開発は新鮮さと衝撃がありました。デプロイはまだ未済で若干放置中です。リンクはGitHubのリンクです。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
-          site: "/"
+            "/rebecca.png",
+          site: "https://github.com/hideokawahara/rebecca"
         },
         {
           title: "Victoria",
@@ -85,7 +83,7 @@ export default {
           title: "Centaur",
           previewText: "こちらは今後作っていきたいと考えているものです。プログラミング学習コンテンツであり、現段階はただ構想を練っている段階でまだ具体的には作成していないですが、Webデベロッパーとしてのキャリアを歩みながら作成していきます。",
           thumbnailUrl:
-            "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
+            "/centaur.png",
           site: "/"
         }
       ]
