@@ -78,7 +78,7 @@ export default {
         },
         {
           title: "Victoria",
-          previewText: "Node.jsメインに作成。こちらはpeerjsの練習がてらに作成。こちらの技術をconVerへ移していきました。",
+          previewText: "Node.jsメインに作成。こちらはpeerjsの練習がてらに作成。こちらの技術をconVerへ移していきました。開発は途中段階の都合上、リンクはこちらのサイトのホーム画面に飛びます。",
           thumbnailUrl:
             "https://www.pakutaso.com/shared/img/thumb/smokeIMGL8981_TP_V.jpg",
           site: "/"
