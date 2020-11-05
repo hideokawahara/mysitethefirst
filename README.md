@@ -4,8 +4,6 @@
 初めて作成したということで『mysitethefirst』という名前をつけました。
 
 # DEMO
- 
-[![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1298601676740296704/pu/img/5AsHQePvDufjw5dd.jpg)](https://twitter.com/hinoizuryu27/status/1298601886451249152/video/1)
 デモ動画はTwitterのリンクを載せています。そちらで実際の動作をご確認いただけます。
 
 # Description
